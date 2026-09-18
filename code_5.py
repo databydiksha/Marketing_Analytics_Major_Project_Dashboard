@@ -4,9 +4,6 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 import os
-
-os.chdir(r"C:\Users\allab\OneDrive\Documents\CHRIST UNIVERSITY\4th Trimester B.A\4. Market Analytics\CIA_4")
-
 st.set_page_config(page_title="Retail vs Wholesale Strategy Dashboard", layout="wide", page_icon="🛍️")
 
 # =========================================================================
